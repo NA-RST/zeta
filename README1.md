@@ -14,3 +14,4 @@ Claudia Lives in Chicago
 She misses the lake 
 She can cook peruvian dishes!
 
+This readme was peer reviewed by: Claudia
